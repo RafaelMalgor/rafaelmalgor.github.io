@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mondays/static/css/main.26d7ce2b.chunk.css",
+    "main.js": "/mondays/static/js/main.59b67984.chunk.js",
+    "main.js.map": "/mondays/static/js/main.59b67984.chunk.js.map",
+    "runtime-main.js": "/mondays/static/js/runtime-main.aa68e43a.js",
+    "runtime-main.js.map": "/mondays/static/js/runtime-main.aa68e43a.js.map",
+    "static/css/2.67123b20.chunk.css": "/mondays/static/css/2.67123b20.chunk.css",
+    "static/js/2.ab7ac73f.chunk.js": "/mondays/static/js/2.ab7ac73f.chunk.js",
+    "static/js/2.ab7ac73f.chunk.js.map": "/mondays/static/js/2.ab7ac73f.chunk.js.map",
+    "index.html": "/mondays/index.html",
+    "precache-manifest.972fe8f5102821423a51cfb20c934924.js": "/mondays/precache-manifest.972fe8f5102821423a51cfb20c934924.js",
+    "service-worker.js": "/mondays/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/mondays/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.26d7ce2b.chunk.css.map": "/mondays/static/css/main.26d7ce2b.chunk.css.map",
+    "static/js/2.ab7ac73f.chunk.js.LICENSE.txt": "/mondays/static/js/2.ab7ac73f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa68e43a.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.ab7ac73f.chunk.js",
+    "static/css/main.26d7ce2b.chunk.css",
+    "static/js/main.59b67984.chunk.js"
+  ]
+}
