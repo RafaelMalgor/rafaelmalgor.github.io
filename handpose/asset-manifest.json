@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/handpose/static/css/main.a3017a8a.chunk.css",
-    "main.js": "/handpose/static/js/main.8fd8f5b0.chunk.js",
-    "main.js.map": "/handpose/static/js/main.8fd8f5b0.chunk.js.map",
+    "main.js": "/handpose/static/js/main.ede13a29.chunk.js",
+    "main.js.map": "/handpose/static/js/main.ede13a29.chunk.js.map",
     "runtime-main.js": "/handpose/static/js/runtime-main.a1bf4294.js",
     "runtime-main.js.map": "/handpose/static/js/runtime-main.a1bf4294.js.map",
-    "static/js/2.926cae6d.chunk.js": "/handpose/static/js/2.926cae6d.chunk.js",
-    "static/js/2.926cae6d.chunk.js.map": "/handpose/static/js/2.926cae6d.chunk.js.map",
+    "static/js/2.69d09f40.chunk.js": "/handpose/static/js/2.69d09f40.chunk.js",
+    "static/js/2.69d09f40.chunk.js.map": "/handpose/static/js/2.69d09f40.chunk.js.map",
     "static/js/3.fe8ce35c.chunk.js": "/handpose/static/js/3.fe8ce35c.chunk.js",
     "static/js/3.fe8ce35c.chunk.js.map": "/handpose/static/js/3.fe8ce35c.chunk.js.map",
     "index.html": "/handpose/index.html",
     "static/css/main.a3017a8a.chunk.css.map": "/handpose/static/css/main.a3017a8a.chunk.css.map",
-    "static/js/2.926cae6d.chunk.js.LICENSE.txt": "/handpose/static/js/2.926cae6d.chunk.js.LICENSE.txt",
+    "static/js/2.69d09f40.chunk.js.LICENSE.txt": "/handpose/static/js/2.69d09f40.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/handpose/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1bf4294.js",
-    "static/js/2.926cae6d.chunk.js",
+    "static/js/2.69d09f40.chunk.js",
     "static/css/main.a3017a8a.chunk.css",
-    "static/js/main.8fd8f5b0.chunk.js"
+    "static/js/main.ede13a29.chunk.js"
   ]
 }
